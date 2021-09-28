@@ -32,13 +32,8 @@ Here I upload some of the proyects that I make at the university and some other 
   [![TypeScript](https://img.shields.io/badge/TypeScript-24A2E9?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
   [![Shellscript](https://img.shields.io/badge/Shellscript-60605B?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.shellscript.sh)
   <br>
-  [![Angular](https://img.shields.io/badge/Angular-E02F2F?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io/)
-  [![HTML](https://img.shields.io/badge/HTML5-F16616?style=for-the-badge&logo=HTML5&logoColor=white)](https://html.com/)
-  [![CSS](https://img.shields.io/badge/CSS3-24A2E9?style=for-the-badge&logo=CSS3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
-  [![Node](https://img.shields.io/badge/Nodejs-8abf2e?style=for-the-badge&logo=nodejs&logoColor=white)](https://nodejs.org/es/)
   [![MySQL](https://img.shields.io/badge/MySQL-eb7a09?style=for-the-badge&logo=MYSQL&logoColor=white)](https://Www.mysql.com)
-  <br>
-  [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+  [![MacOs](https://img.shields.io/badge/macos-A5A0A2?style=for-the-badge&logo=macos&logoColor=white)](https://www.apple.com/es/macos/big-sur/)
   [![VS Code](https://img.shields.io/badge/VSCode-2490D5?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
   [![Git](https://img.shields.io/badge/Git-eb7a09?style=for-the-badge&logo=git&logoColor=white)](https://github.com/)
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
