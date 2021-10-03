@@ -15,7 +15,7 @@ Here I upload some of the proyects that I make at the university and some other 
 
 ## 📲 My Social Networks
 
-
+[![My Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMVJWCSqVfJmCJTRzHlnpPsmnZfvdvqLNjvgKMtmzpFDCwvhCWmCVRXBhqvbvftvSLQWtdL)
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-pérez-dueñas-0801851a4/)
 [![My Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Davison27)
 [![My Instagram](https://img.shields.io/badge/-INSTAGRAM-9718D6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davidperez_2701/)
@@ -33,6 +33,7 @@ Here I upload some of the proyects that I make at the university and some other 
   [![Shellscript](https://img.shields.io/badge/Shellscript-60605B?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.shellscript.sh)
   <br>
   [![MySQL](https://img.shields.io/badge/MySQL-eb7a09?style=for-the-badge&logo=MYSQL&logoColor=white)](https://Www.mysql.com)
+  [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
   [![MacOs](https://img.shields.io/badge/macos-A5A0A2?style=for-the-badge&logo=macos&logoColor=white)](https://www.apple.com/es/macos/big-sur/)
   [![VS Code](https://img.shields.io/badge/VSCode-2490D5?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
   [![Git](https://img.shields.io/badge/Git-eb7a09?style=for-the-badge&logo=git&logoColor=white)](https://github.com/)
