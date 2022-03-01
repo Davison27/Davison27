@@ -1,5 +1,5 @@
 ## 🙋🏻‍♂️ About me
-Hi! I'm David, a informatic engineering student from Cordoba, Spain 🇪🇸📍
+Hi! I'm David, an informatic engineering student from Cordoba, Spain 🇪🇸📍
 
 Here I upload some of the proyects that I make at the university and some other interesting stuff that I make on my own. I hope that you find my profile interesting! 😁
 
@@ -9,7 +9,7 @@ Here I upload some of the proyects that I make at the university and some other 
 
 🖥️ Informatic Engineering at [University of Córdoba](http://www.uco.es/)
 
-🐧 Colaborating at [Aula de Software Libre](https://www.uco.es/aulasoftwarelibre/) as Social Networks and Marketing Delegate.
+🐧 Colaborating at [Aula de Software Libre](https://www.uco.es/aulasoftwarelibre/) as Social Networks and Marketing Manager.
 
 <br>
 
@@ -33,8 +33,6 @@ Here I upload some of the proyects that I make at the university and some other 
   [![Shellscript](https://img.shields.io/badge/Shellscript-60605B?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.shellscript.sh)
   <br>
   [![MySQL](https://img.shields.io/badge/MySQL-eb7a09?style=for-the-badge&logo=MYSQL&logoColor=white)](https://Www.mysql.com)
-  [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
-  [![MacOs](https://img.shields.io/badge/macos-A5A0A2?style=for-the-badge&logo=macos&logoColor=white)](https://www.apple.com/es/macos/big-sur/)
   [![VS Code](https://img.shields.io/badge/VSCode-2490D5?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
   [![Git](https://img.shields.io/badge/Git-eb7a09?style=for-the-badge&logo=git&logoColor=white)](https://github.com/)
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
@@ -42,10 +40,18 @@ Here I upload some of the proyects that I make at the university and some other 
 
 <br>
 
+## 🛠 My OS
+
+  [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+  [![MacOs](https://img.shields.io/badge/-MacOs-C2C2C6?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/es/macos/big-sur/)
+  [![Windows](https://img.shields.io/badge/windows%2011-00BFFF?style=for-the-badge&logo=windows&logoColor=blue)](https://www.microsoft.com/es-es/windows/windows-11)
+
+
+<br>
+
 ## 🚀 My Github Stats:
 
-|![Davison27 Github Stats](https://github-readme-stats.vercel.app/api?username=Davison27&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_title=true&hide_border=true)|[![Davison27 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davison27&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_border=true&layout=compact&langs_count=6)](https://github.com/Davison27/github-readme-stats)|
+|![Davison27 Github Stats](https://github-readme-stats.vercel.app/api?username=Davison27&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_title=true&hide_border=true)|[![Davison27 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davison27&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_border=true&langs_count=6)](https://github.com/Davison27/github-readme-stats)|
 |---|---|
-
 <br>
 
