@@ -49,9 +49,3 @@ Here I upload some of the proyects that I make at the university and some other 
 
 <br>
 
-## 🚀 My Github Stats:
-
-|![Davison27 Github Stats](https://github-readme-stats.vercel.app/api?username=Davison27&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_title=true&hide_border=true)|[![Davison27 Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davison27&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=DEG,493963,60102f&show_icons=true&hide_border=true&langs_count=6)](https://github.com/Davison27/github-readme-stats)|
-|---|---|
-<br>
-
