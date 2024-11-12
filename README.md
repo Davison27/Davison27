@@ -1,28 +1,23 @@
 ## 🙋🏻‍♂️ About me
-Hi! I'm David, a computer engineering student from Cordoba, Spain 🇪🇸📍
+Hi! I'm David, a computer engineer and a software developer from Cordoba, Spain 🇪🇸📍
 
-Here I upload some of the proyects that I make at the university and some other interesting stuff that I make on my own. I hope that you find my profile interesting! 😁
-
+Here I upload some other interesting stuff that I make on my own. I hope that you find my profile interesting! 😁
 <br>
 
-## 👨🏻‍💻 Learning 
+## 👨🏻‍💻 Education and Personal Achievements 
 
-🖥️ Informatic Engineering at [University of Córdoba](http://www.uco.es/)
+🖥️ Bachelor's Degree in Computer Engineering at [University of Córdoba](http://www.uco.es/) [2019-2023]
 
-🐧 Colaborating at [Aula de Software Libre](https://www.uco.es/aulasoftwarelibre/) as Social Networks and Marketing Manager.
+🐧 Collaborator at [Aula de Software Libre](https://www.uco.es/aulasoftwarelibre/) as Social Networks and Marketing Manager. [2019-2023]
 
-
-
+🍅 Organizer of the 2º, 3º and 4º edition of SalmorejoTech [2021-2023]
 <br>
 
 ## 📲 My Social Networks
 
-[![My Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMVJWCSqVfJmCJTRzHlnpPsmnZfvdvqLNjvgKMtmzpFDCwvhCWmCVRXBhqvbvftvSLQWtdL)
+[![My Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=lqrslwSMftknqMKLcWWlpNXwBTlKWsXqDHJxskwpzzkCjvnXLhrRTMZVCWgCjrwmFCmdMvBkbrVPMPgMT)
 [![My LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-pérez-dueñas-0801851a4/)
 [![My Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Davison27)
-[![My Instagram](https://img.shields.io/badge/-INSTAGRAM-9718D6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davidperez_2701/)
-[![My Twitter](https://img.shields.io/badge/-TWITTER-0CA0CB?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Davidperezduea2)
-
 <br>
 
 ## 🛠 Technologies, tools and languages
@@ -34,7 +29,7 @@ Here I upload some of the proyects that I make at the university and some other 
   [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
   [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com/)
   [![Shellscript](https://img.shields.io/badge/Shellscript-60605B?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.shellscript.sh)
-  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+
   <br>
 
 - Frontend: <br/>
@@ -44,6 +39,8 @@ Here I upload some of the proyects that I make at the university and some other 
   [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
   [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
   [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
+  [![Redux](https://img.shields.io/badge/Redux-ffffff?style=for-the-badge&logo=redux&logoColor=572364)]()
+  [![Ionic](https://img.shields.io/badge/Ionic-grey?style=for-the-badge&logo=ionic&logoColor=blue)]()
   
 
 
@@ -54,6 +51,9 @@ Here I upload some of the proyects that I make at the university and some other 
   [![TDD](https://img.shields.io/badge/TDD-76B900?style=for-the-badge&logoColor=white)]()
   [![Docker](https://img.shields.io/badge/Docker-24A2E9?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
   [![MySQL](https://img.shields.io/badge/MySQL-eb7a09?style=for-the-badge&logo=MYSQL&logoColor=white)](https://Www.mysql.com)
+  [![MongoDB](https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=MONGODB&logoColor=green)](https://www.mongodb.com/es)
+  [![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=EXPRESS&logoColor=green)](https://www.mongodb.com/es)
+
 
 - Tools: <br/>
 
@@ -61,7 +61,6 @@ Here I upload some of the proyects that I make at the university and some other 
   [![Git](https://img.shields.io/badge/Git-eb7a09?style=for-the-badge&logo=git&logoColor=white)](https://github.com/)
   [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
   [![GitLab](https://img.shields.io/badge/GitLab-white?style=for-the-badge&logo=gitlab)](https://gitlab.com/)
-
 <br>
 
 ## 🛠 My OS
